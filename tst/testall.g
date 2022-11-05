@@ -1,5 +1,5 @@
 #
-# SuperCharacter: Computing supercharacter theories of a finite group
+# SuperCharacter: This package is for computing all supercharacter theories of a finite group.
 #
 # This file runs package tests. It is also referenced in the package
 # metadata in PackageInfo.g.
